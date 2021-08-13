@@ -1,2 +1,2 @@
-# taewoo.bang
+# Python Project 
 YOLO
